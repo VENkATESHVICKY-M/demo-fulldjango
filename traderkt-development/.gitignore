@@ -1,0 +1,10 @@
+
+.idea/
+uploads/
+generics/__pycache__/
+common/__pycache__/
+traderkit/__pycache__/
+users/__pycache__/
+users/migrations/
+common/migrations/
+traderkitenv/
